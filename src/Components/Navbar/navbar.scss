@@ -35,6 +35,11 @@
             transform: translateY(5px);
             padding-left: 1rem;
         }
+        .text-sm{
+            font-size: 12px;
+            font-weight: 400;
+            transform: translateY(5px);
+        }
     }
     @media screen and (max-width: 768px) {
         .navBar{

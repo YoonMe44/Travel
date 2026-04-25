@@ -16,10 +16,11 @@ const Navbar = () => {
   }
   return (
     <section className='navBar Section'>
-      <header className="header flex">
+      <header className=" header flex">
         <div className="logoDiv">
           <a href="#" className="logo flex">
-            <h1><SiYourtraveldottv className="icon"/>Travel.</h1>
+            <h1><SiYourtraveldottv className="icon"/>Travel</h1>
+            <p className='text-sm'>in Myanmar</p>
           </a>
         </div>
         <div className={active}>

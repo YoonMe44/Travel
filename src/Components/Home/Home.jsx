@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import './home.css'
 import './home.scss'
-import Video from '../../Assets/navBG2.mp4'
+import Video from '../../Assets/navBG.mp4'
 import {GrLocation} from 'react-icons/gr'
 import {HiFilter} from 'react-icons/hi'
 import {FiFacebook} from 'react-icons/fi'
